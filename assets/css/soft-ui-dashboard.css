@@ -965,6 +965,14 @@ progress {
     flex: 0 0 auto;
     width: 16.666667%;
   }
+ 
+}
+
+.sel-style{
+  height: 2rem;
+  width: 35rem;
+  margin: 2px;
+  padding: 2px;
 }
 
 .col-auto {
